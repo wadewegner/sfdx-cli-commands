@@ -1,0 +1,19 @@
+{
+  "name": "sfdx-cli-commands",
+  "version": "1.0.0",
+  "description": "Some commands for the sfdx CLI by Wade",
+  "main": "index.js",
+  "author": "Wade Wegner @WadeWegner",
+  "repository": "WadeWegner/sfdx-cli-commands",
+  "bugs": {
+    "url": "https://github.com/wadewegner/sfdx-cli-commands/issues"
+  },
+  "keywords": [
+    "heroku-plugin",
+    "sfdx"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "heroku-cli-util": "^6.0.16"
+  }
+}
